@@ -34,6 +34,8 @@ conda install conda-forge::basemap
 
 conda install conda-forge::netcdf4
 
+conda install anaconda::pandas
+
 conda install jupyter
 
 ## Using Jupyter Notebook for Python Programming
