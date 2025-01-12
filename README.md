@@ -15,6 +15,12 @@ after installation is finished, select Anaconda prompt in start menu windows
 
 you will enter the anaconda prompt 
 
+## Create new conda environment name = ocean python39
+
+conda create --name ocean python=3.9
+
+conda activate ocean
+
 ## Installing some libraries in anaconda prompt
 
 conda install conda-forge::numpy
@@ -26,6 +32,8 @@ conda install conda-forge::matplotlib
 conda install conda-forge::netcdf4
 
 conda install conda-forge::basemap
+
+conda install jupyter
 
 
 
