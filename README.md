@@ -9,7 +9,27 @@ wget "https://repo.anaconda.com/miniconda/Miniconda3-py39_24.11.1-0-Windows-x86_
 
 cd Downloads
 
-./Miniconda3-python39-Windows-x86_64.exe
+./Miniconda3-python39-Windows-x86_64.exe 
+
+after installation is finished, select Anaconda prompt in start menu windows
+
+you will enter the anaconda prompt 
+
+## Installing some libraries in anaconda prompt
+
+conda install conda-forge::numpy
+
+conda install conda-forge::scipy
+
+conda install conda-forge::matplotlib
+
+conda install conda-forge::netcdf4
+
+conda install conda-forge::basemap
+
+
+
+
 
 
 
