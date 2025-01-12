@@ -36,9 +36,11 @@ conda install conda-forge::netcdf4
 
 conda install anaconda::pandas
 
+conda install conda-forge::plotly
+
 conda install jupyter
 
-## Using Jupyter Notebook for Python Programming
+## Menggunakan Jupyter Notebook untuk Python Programming
 
 Create a new directory
 
@@ -51,6 +53,12 @@ jupyter notebook
 Copy the URL's to your browser
 
 Now You have a jupyter notebook opened in your browser
+
+## test case Banda surface data 1 Jan 2022 - 31 Dec 2024
+
+Input command in chat GPT : baca data text banyak kolom dengan kolom pertama tanggal dan plot masing masing kolom lalu buat moving average dan selanjutnya buat korelasi pada tiap variabel menggunakan heatmap dan PCA selanjutnya buat candle stick rata rata bulanan
+
+
 
 
 
