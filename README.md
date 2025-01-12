@@ -10,6 +10,8 @@ cd Downloads
 
 ./Miniconda3-python39-Windows-x86_64.exe 
 
+cd ..
+
 after installation is finished, select Anaconda prompt in start menu windows
 
 you will enter the anaconda prompt 
@@ -28,11 +30,28 @@ conda install conda-forge::scipy
 
 conda install conda-forge::matplotlib
 
-conda install conda-forge::netcdf4
-
 conda install conda-forge::basemap
 
+conda install conda-forge::netcdf4
+
 conda install jupyter
+
+## Using Jupyter Notebook for Python Programming
+
+Create a new directory
+
+mkdir python_training
+
+cd python_training
+
+jupyter notebook
+
+Copy the URL's to your browser
+
+Now You have a jupyter notebook opened in your browser
+
+
+
 
 
 
