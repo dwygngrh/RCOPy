@@ -40,6 +40,8 @@ conda install conda-forge::plotly
 
 conda install anaconda::seaborn
 
+conda install anaconda::pywavelets
+
 conda install jupyter
 
 ## Menggunakan Jupyter Notebook untuk Python Programming
