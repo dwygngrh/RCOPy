@@ -60,6 +60,16 @@ Copy the URL's to your browser
 
 Now You have a jupyter notebook opened in your browser
 
+## Silahkan Download data di Github ini
+
+### buka data di notepad dan pelajari isi data tersebut
+
+data_banda.txt
+
+TS_halmahera.txt
+
+# latihan menggunakan Python
+
 ## test case Banda surface data 1 Jan 2022 - 31 Dec 2024
 
 ### berikan perintah berikut ke chat GPT
