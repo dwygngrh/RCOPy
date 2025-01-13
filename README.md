@@ -76,6 +76,8 @@ TS_halmahera.txt
 
 kode python baca data text banyak kolom dengan kolom pertama tanggal dan plot masing masing kolom dengan xaxis adalah tanggal per bulan lalu buat moving average dan selanjutnya buat korelasi pada tiap variabel menggunakan heatmap dan PCA selanjutnya  buat power spectrum density selanjutnya buat continous wavelet transform
 
+SIlahkan coba untuk prediksi menggunakan machine learning (random forest atau arima)
+
 ## test case TS diagram Halmahera sea
 
 ### berikan perintah berikut ke chat GPT
