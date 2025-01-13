@@ -62,9 +62,13 @@ Now You have a jupyter notebook opened in your browser
 
 ## test case Banda surface data 1 Jan 2022 - 31 Dec 2024
 
-python baca data text banyak kolom dengan kolom pertama tanggal dan plot masing masing kolom dengan xaxis adalah tanggal per bulan lalu buat moving average dan selanjutnya buat korelasi pada tiap variabel menggunakan heatmap dan PCA selanjutnya  buat power spectrum density selanjutnya buat continous wavelet transform
+# berikan perintah berikut ke chat GPT
+
+kode python baca data text banyak kolom dengan kolom pertama tanggal dan plot masing masing kolom dengan xaxis adalah tanggal per bulan lalu buat moving average dan selanjutnya buat korelasi pada tiap variabel menggunakan heatmap dan PCA selanjutnya  buat power spectrum density selanjutnya buat continous wavelet transform
 
 ## test case TS diagram Halmahera sea
+
+# berikan perintah berikut ke chat GPT
 
 buat code python bagaimana membuat TS diagram dengan data dari file text dan kontur densitas TEOS-10 menggunakan kontur dash line dan kontur label
 
